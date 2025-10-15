@@ -298,13 +298,5 @@ terraform show
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For questions and support:
-- Create an issue in this repository
-- Contact the DevOps team
-- Check the Azure documentation for service-specific guidance
+## architecture-diagram.png
+<img width="645" height="417" alt="image" src="https://github.com/user-attachments/assets/25b435f0-d526-4524-a063-a994865075b7" />
